@@ -12,7 +12,7 @@ To run the application, provide the following command-line arguments:
 java -jar jar <csvFilePath> <prePages>
 ```
 * csvFilePath: The path where the CSV file will be saved.
-* prePages: Number of reviews processe by one thread(50,100,200). Affects the number of threads created in the executor service (optional, default value is 100)
+* prePages: Number of reviews processe by one thread(50,100,200). Affects the number of threads created in the executor service
 
 ## Quick start
 1. Clone this repo into folder.
