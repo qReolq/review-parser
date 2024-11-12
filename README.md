@@ -23,10 +23,10 @@ cd review-parser\target
 ```
 2 Then, run the Main class with the appropriate command-line arguments.
 ```Bash
-java -jar .\ReviewParser-1.0-SNAPSHOT.jar \path\to\reviews.csv 100
+java -jar .\target\ReviewParser-1.0-SNAPSHOT.jar \path\to\reviews.csv 100
 ```
 
 ## Examle
 ```Bash
-java -jar .\ReviewParser-1.0-SNAPSHOT.jar C:\Users\admin\Desktop 100
+java -jar .\target\ReviewParser-1.0-SNAPSHOT.jar C:\Users\admin\Desktop 100
 ```
